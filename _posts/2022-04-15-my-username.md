@@ -1,6 +1,6 @@
 ---
-title: "Why Mbrick2"
-date: 
+title: "Why Mbrick2?"
+date: 2022-04-15T15:34:30-04:00
 categories:
   - blog
 tags:
