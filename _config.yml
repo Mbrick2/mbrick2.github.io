@@ -44,11 +44,11 @@ author:
   avatar : "https://avatars.githubusercontent.com/u/90691415?v=4"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "GitHub"
+   - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mbrick2/"
     - label: "Replit"
-      icon: "fab fa-fw fa-replit"
+      icon: "fab fa-fw"
       url: "https://replit.com/@mbrick2/"
      - label: "Discord"
       icon: "fab fa-fw fa-discord"
