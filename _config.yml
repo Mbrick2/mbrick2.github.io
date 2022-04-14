@@ -41,7 +41,7 @@ plugins:
 
 author:
   name   : "Mbrick2"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://avatars.githubusercontent.com/u/90691415?v=4"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "GitHub"
