@@ -69,9 +69,6 @@ author:
 
 footer:
   links:
-    - label: "Replit"
-      icon: "fas fa-fw fa-link"
-      url: "https://replit.com/@mbrick2
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Chiroyce1"
