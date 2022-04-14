@@ -1,8 +1,24 @@
-title: Mbrick2s Blog
-email: 
-description:
- Hello World!
-github_username: mbrick2
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Mbrick2's Blog
+email:
+description: >- # this means to ignore newlines until "baseurl:"
+  Hello World!
+# twitter_username: username
+github_username: Mbrick2
 minimal_mistakes_skin: dark
 search: true
 
@@ -13,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata
 
 include:
   - _pages
@@ -42,26 +58,23 @@ plugins:
 author:
   name   : "Mbrick2"
   avatar : "https://avatars.githubusercontent.com/u/90691415?v=4"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hello, I'm Mbrick2!"
   links:
-   - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mbrick2/"
     - label: "Replit"
-      icon: "fab fa-fw"
-      url: "https://replit.com/@mbrick2/"
-     - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.com/
+      icon: "fas fa-fw fa-link"
+      url: "https://replit.com/@mbrick2"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Chiroyce1"
 
 footer:
   links:
+    - label: "Replit"
+      icon: "fas fa-fw fa-link"
+      url: "https://replit.com/@mbrick2
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mbrick2/"
-    - label: "Replit"
-      icon: "fab fa-fw fa-replit"
-      url: "https://replit.com/@mbrick2/"
+      url: "https://github.com/Chiroyce1"
 
 defaults:
   # _posts
@@ -89,5 +102,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-theme: jekyll-theme-cayman
